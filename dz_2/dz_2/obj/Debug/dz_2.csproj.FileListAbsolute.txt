@@ -1,0 +1,6 @@
+C:\Users\kysar\source\repos\dz_2\dz_2\bin\Debug\dz_2.exe.config
+C:\Users\kysar\source\repos\dz_2\dz_2\bin\Debug\dz_2.exe
+C:\Users\kysar\source\repos\dz_2\dz_2\bin\Debug\dz_2.pdb
+C:\Users\kysar\source\repos\dz_2\dz_2\obj\Debug\dz_2.csprojAssemblyReference.cache
+C:\Users\kysar\source\repos\dz_2\dz_2\obj\Debug\dz_2.exe
+C:\Users\kysar\source\repos\dz_2\dz_2\obj\Debug\dz_2.pdb
