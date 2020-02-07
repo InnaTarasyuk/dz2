@@ -1,0 +1,12 @@
+C:\Users\kysar\source\repos\DZ_1\DZ_1\bin\Debug\DZ_1.exe.config
+C:\Users\kysar\source\repos\DZ_1\DZ_1\bin\Debug\DZ_1.exe
+C:\Users\kysar\source\repos\DZ_1\DZ_1\bin\Debug\DZ_1.pdb
+C:\Users\kysar\source\repos\DZ_1\DZ_1\obj\Debug\DZ_1.csprojAssemblyReference.cache
+C:\Users\kysar\source\repos\DZ_1\DZ_1\obj\Debug\DZ_1.exe
+C:\Users\kysar\source\repos\DZ_1\DZ_1\obj\Debug\DZ_1.pdb
+C:\Users\kysar\Downloads\DZ_1 (1)\DZ_1\bin\Debug\DZ_1.exe.config
+C:\Users\kysar\Downloads\DZ_1 (1)\DZ_1\bin\Debug\DZ_1.exe
+C:\Users\kysar\Downloads\DZ_1 (1)\DZ_1\bin\Debug\DZ_1.pdb
+C:\Users\kysar\Downloads\DZ_1 (1)\DZ_1\obj\Debug\DZ_1.csprojAssemblyReference.cache
+C:\Users\kysar\Downloads\DZ_1 (1)\DZ_1\obj\Debug\DZ_1.exe
+C:\Users\kysar\Downloads\DZ_1 (1)\DZ_1\obj\Debug\DZ_1.pdb
