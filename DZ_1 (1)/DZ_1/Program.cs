@@ -1,30 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 
 namespace DZ_1
 {
-    delegate double MathOperation(double a, double b);
-    class Program
+    public delegate double MathOperation(double a, double b);
+    public class Program
     {
-        static Dictionary<string, MathOperation> operations;
-        /// <summary>
-        /// Метод добавляет в словарь необходимые операции, которые реализуют вычисление значений
-        /// </summary>
-        static void Calculator()
-        {
-            operations = new Dictionary<string, MathOperation>();
-            MathOperation plus = (x, y) => x + y;
-            operations.Add("+", plus);
-            operations.Add("-", (x, y) => x - y);
-            operations.Add("*", (x, y) => x * y);
-            operations.Add("/", (x, y) => x / y);
-            operations.Add("^", (x, y) =>
-            {
-                x = Math.Pow(x, y);
-                return x;
-            });
-        }
+
         /// <summary>
         /// Метод работает с файлами: записывает вычисленные значения в нужный файл
         /// и проверяет корректность посчитанных значений в исходном
@@ -73,7 +55,7 @@ namespace DZ_1
 
         static void Main(string[] args)
         {
-            Calculator();
+            Calculator.CalculatorMethod();
             WorkWithFiles();
         }
         /// <summary>
@@ -85,9 +67,9 @@ namespace DZ_1
         /// <returns> Вычисленное значение </returns>
         public static double Calculate(string operation, double a, double b)
         {
-            if (operations.ContainsKey(operation))
+            if (Calculator.operations.ContainsKey(operation))
             {
-                return operations[operation](a, b);
+                return Calculator.operations[operation](a, b);
             }
             else
             {
